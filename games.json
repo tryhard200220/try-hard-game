@@ -209,25 +209,4 @@
     "size": "2.6 GB",
     "image": "https://example.com/gtasa.jpg"
   },
-  {
-    "name": "Rebel Racing (MOD, Unlimited Money)",
-    "description": "Experience realistic racing action. The MOD version provides unlimited money to buy and upgrade the best cars.",
-    "category": "Racing, Sports",
-    "size": "400 MB",
-    "image": "https://example.com/rebelracing.jpg"
-  },
-  {
-    "name": "My Talking Tom Friends (MOD, Unlimited Money)",
-    "description": "Take care of Tom and his friends in this fun simulation. The MOD offers unlimited money for customizing your house and pets.",
-    "category": "Casual, Simulation",
-    "size": "300 MB",
-    "image": "https://example.com/tomfriends.jpg"
-  },
-  {
-    "name": "Earn to Die 2 (MOD, Unlimited Money)",
-    "description": "Drive through zombie wastelands with powerful vehicles. This MOD grants unlimited money for upgrades and survival.",
-    "category": "Action, Racing",
-    "size": "120 MB",
-    "image": "https://example.com/earntodie2.jpg"
-  }
 ]
